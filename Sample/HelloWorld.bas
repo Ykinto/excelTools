@@ -1,5 +1,5 @@
 Attribute VB_Name = "HelloWorld"
-'Às‚·‚é‚ÆwHello Worldx‚ÆƒƒbƒZ[ƒWƒ{ƒbƒNƒX‚É•\¦
+'ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½ÆwHello Worldï¿½xï¿½Æƒï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½{ï¿½bï¿½Nï¿½Xï¿½É•\ï¿½ï¿½
 Sub Sample_ImportExport()
     MsgBox "Hello World"
 End Sub
